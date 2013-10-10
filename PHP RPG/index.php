@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo 'Jeg er grim!';
+        echo 'Jeg tester lige!';
         ?>
     </body>
 </html>
